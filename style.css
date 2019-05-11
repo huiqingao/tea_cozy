@@ -86,3 +86,37 @@ main {
   width: 300px;
   height: 200px;
 }
+
+/* Locations */
+.locations {
+  background-image: url("./assets/images/img-locations-background.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 500px;
+}
+
+.addresses {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.address {
+  width: 300px;
+  margin: 0 20px;
+  background-color: black;
+  line-height: 3.6rem;
+}
+
+/* Contact */
+.contact {
+  height: 200px;
+}
+
+/* Copyright */
+.copyright {
+  float: left;
+}
