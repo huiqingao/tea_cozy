@@ -50,4 +50,20 @@ nav ul li {
 main {
   position: relative;
   top: 69px;
+  margin: 0 20px;
+}
+
+/* Mission */
+.mission {
+  display: flex;
+  height: 700px;
+  background-image: url("./assets/images/img-mission-background.jpg");
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  background-color: black;
+  width: 100%;
 }
