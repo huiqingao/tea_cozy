@@ -81,6 +81,9 @@ main {
   justify-content: center;
 }
 
+.photo {
+  margin: 0 15px; 
+}
 
 .photo img {
   width: 300px;
