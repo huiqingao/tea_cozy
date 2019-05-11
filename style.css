@@ -71,7 +71,7 @@ main {
 /* Featured Tea */
 .featured_tea {
   width: 1000px;
-  margin: 0 auto;
+  margin: 80px auto;
 }
 
 .gallery {
@@ -82,7 +82,7 @@ main {
 }
 
 .photo {
-  margin: 0 15px; 
+  margin: 0 15px;
 }
 
 .photo img {
